@@ -46,6 +46,7 @@ This is a non-comprehensive list of various resources and helpful links that I h
 ## UX/UI
 + [52 Weeks of UX](http://52weeksofux.com/)
 + [UXApprentice](http://www.uxapprentice.com/)
+
 ** Tools**
 + [Wireframe.cc](https://wireframe.cc/)
 + [Mockingbird](https://gomockingbird.com/home)
